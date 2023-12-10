@@ -1,0 +1,17 @@
+#mapDiv{
+  width: 100%;
+  height: 100vh;
+  border: 1px solid red;
+}
+
+#button {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background: black;
+  color: white;
+  height: 45px;
+  cursor: pointer;
+  padding-inline: 20px;
+  text-transform: uppercase;
+
+}
